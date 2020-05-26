@@ -1,8 +1,8 @@
 # Exercícios Rocketseat
 
-<h1 align="center">Exercícios: Módulo 01</h1>
+<h2 align="center">Exercícios: Módulo 01</h2>
 
-<strong>1º exercício</strong>
+<h3><strong>1º exercício</strong></h3>
 
 Crie uma função que dado o objeto a seguir:
 ```
@@ -19,7 +19,7 @@ Retorne o seguinte conteúdo:
 O usuário mora em São Paulo / SP, no bairro Centro, na rua "Rua dos Pinheiros" com
 nº 1293.
 ```
-<strong>2º exercício</strong>
+<h3><strong>2º exercício</strong></h3>
 
 Crie uma função que dado um intervalo (entre x e y) exiba todos número pares:
 ```
@@ -28,7 +28,7 @@ function pares(x, y) {
 }
 pares(32, 321);
 ```
-<strong>3º exercício</strong>
+<h3><strong>3º exercício</strong></h3>
 
 Escreva uma função que verifique se o vetor de habilidades passado possui a habilidade "Javascript"
 e retorna um booleano true/false caso exista ou não.
@@ -41,7 +41,7 @@ temHabilidade(skills); // true ou false
 ```
 Dica: para verificar se um vetor contém um valor, utilize o método indexOf.
 
-<strong>4º exercício</strong>
+<h3><strong>4º exercício</strong></h3>
 
 Escreva uma função que dado um total de anos de estudo retorna o quão experiente o usuário é:
 ```
@@ -56,7 +56,7 @@ experiencia(anosEstudo);
 // De 3-6 anos: Avançado
 // De 7 acima: Jedi Master
 ```
-<strong>5º exercício</strong>
+<h3><strong>5º exercício</strong></h3>
 
 Dado o seguinte vetor de objetos:
 ```
