@@ -1,6 +1,6 @@
-# Exercícios Rocketseat
+# Exercícios Rocketseat - JavaScript
 
-<h2 align="center">Exercícios: Módulo 01</h2>
+<h2 align="center">Módulo 01</h2>
 
 <h3><strong>1º exercício</strong></h3>
 
