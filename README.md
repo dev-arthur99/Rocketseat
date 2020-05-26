@@ -76,6 +76,7 @@ Escreva uma função que produza o seguinte resultado:
 ```
 O Diego possui as habilidades: Javascript, ReactJS, Redux
 O Gabriel possui as habilidades: VueJS, Ruby on Rails, Elixir
+```
 Dica: Para percorrer um vetor você deve utilizar a sintaxe for...of e para unir valores de um array
 com um separador utilize o join.
-```
+
