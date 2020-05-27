@@ -82,13 +82,13 @@ com um separador utilize o join.
 
 <h2 align="center">Módulo 02</h2>
 
-<h3><strong>1º Exercício</strong><h3>
+<h3><strong>1º Exercício</strong></h3>
  
 Crie um botão que ao ser clicado cria um novo elemento em tela com a forma de um quadrado
 vermelho com 100px de altura e largura. Sempre que o botão for clicado um novo quadrado deve
 aparecer na tela.
 
-<h3><strong>2º Exercício</strong><h3>
+<h3><strong>2º Exercício</strong></h3>
  
 Utilizando o resultado do primeiro desafio, toda vez que o usuário passar o mouse por cima de
 algum quadrado troque sua cor para uma cor aleatória gerada pela função abaixo:
@@ -105,7 +105,7 @@ function getRandomColor() {
 var newColor = getRandomColor(); // #E943F0
 ```
 
-<h3><strong>3º Exercício</strong><h3>
+<h3><strong>3º Exercício</strong></h3>
  
 A partir do seguinte vetor:
 ```
@@ -116,7 +116,7 @@ Preencha uma lista (<ul>) no HTML com os itens da seguinte forma:
 ● Gabriel
 ● Lucas
 
-<h3><strong>4º Exercício</strong><h3>
+<h3><strong>4º Exercício</strong></h3>
 
 Seguindo o resultado do exercício anterior adicione um input em tela e um botão como a seguir:
 ```
