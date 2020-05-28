@@ -126,3 +126,7 @@ Seguindo o resultado do exercício anterior adicione um input em tela e um botã
 Ao clicar no botão, a função adicionar() deve ser disparada adicionando um novo item a lista de
 nomes baseado no nome preenchido no input e renderizando o novo item em tela juntos aos
 demais itens anteriores. Além disso, o conteúdo do input deve ser apagado após o clique.
+
+<h2 align="center">Módulo 03</h2>
+
+ToDo List com criação e exclusão de inputs e armazenamento de dados com localStorage.
