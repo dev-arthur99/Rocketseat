@@ -29,7 +29,7 @@ function getRandomColor() {
     }
     var newColor = getRandomColor(); // #E943F0
 
-    /* 3º e 4º Exercícios */
+/* 3º e 4º Exercícios */
 
     var nomes = ['Diego', 'Gabriel', 'Lucas'];
 
